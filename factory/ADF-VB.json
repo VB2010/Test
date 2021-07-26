@@ -1,0 +1,9 @@
+{
+	"name": "ADF-VB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "882d11a1-1a8e-4714-8eeb-41af482b9d49",
+		"tenantId": "bfe3b9c7-d359-48f6-b244-f3cb6d946a6f"
+	}
+}
